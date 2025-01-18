@@ -29,7 +29,7 @@ dotenv.config();
 // Configuration object
 const config = {
   // MongoDB URI
-  mongoURI: process.env.MONGO_URI || 'mongodb+srv://Anuhya:12345678900@cluster-1.ancjw.mongodb.net/',
+  mongoURI: process.env.MONGO_URI || 'mongodb+srv://Jahnavi@cluster-1.ancjw.mongodb.net/',
   
   // Server port
   port: process.env.PORT || 8080, 
